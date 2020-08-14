@@ -1,0 +1,7 @@
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\bin\Debug\ejercicio1_laboratorio2.exe.config
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\bin\Debug\ejercicio1_laboratorio2.exe
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\bin\Debug\ejercicio1_laboratorio2.pdb
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\obj\Debug\ejercicio1_laboratorio2.csprojAssemblyReference.cache
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\obj\Debug\ejercicio1_laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\obj\Debug\ejercicio1_laboratorio2.exe
+C:\Users\geros\source\repos\ejercicio1_laboratorio2\ejercicio1_laboratorio2\obj\Debug\ejercicio1_laboratorio2.pdb
