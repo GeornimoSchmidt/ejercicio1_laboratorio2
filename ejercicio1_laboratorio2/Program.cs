@@ -15,7 +15,7 @@ namespace ejercicio1_laboratorio2
 
             int miliseg = DateTime.Now.Millisecond;
             int dado = miliseg % 100 + 1;
-            Console.WriteLine("El numero del dado es " + dado);
+            Console.Write("El numero del dado es " + dado);
             Console.ReadKey();
         }
     }
